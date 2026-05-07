@@ -1,10 +1,10 @@
-# 🦠 COVID-19 Global Analysis Dashboard
+# COVID-19 Global Analysis Dashboard
 
 A comprehensive COVID-19 data analysis dashboard built using Microsoft Excel and Power BI, analyzing global cases, deaths, vaccinations, and economic impact from 2020 to 2023.
 
 ---
 
-## 📊 Dashboard Pages
+## Dashboard Pages
 
 | Page | Description |
 |---|---|
