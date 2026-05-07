@@ -49,7 +49,7 @@ A comprehensive COVID-19 data analysis dashboard built using Microsoft Excel and
 
 ---
 
-## 📁 Project Files
+## Project Files
 
 | File | Description |
 |---|---|
